@@ -1,7 +1,7 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 
-function ContactsSection() {
+function Contact() {
   const { t } = useTranslation();
 
   return (
@@ -25,4 +25,4 @@ function ContactsSection() {
   );
 }
 
-export default ContactsSection;
+export default Contact;
