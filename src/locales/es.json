@@ -5,6 +5,19 @@
     "contact": "Contacto",
     "home": "Inicio",
     "Skills": "habilidades",
-    "Projects": "Proyectos"
+    "Projects": "Proyectos",
+    "description": "Descripción",
+    "Habilidades": "Habilidades",
+    "skill1": "Experto en Visual Studio Code, con habilidades avanzadas en programación, navegación y resolución de problemas.",
+    "skill2": "Experto en MySQL, con amplia experiencia en diseño de bases de datos, consultas eficientes y optimización del rendimiento.",
+    "skill3": "Experto en CSS, con sólida experiencia en diseño web, estilos avanzados y creación de interfaces atractivas y responsivas.",
+    "Mis Proyectos": "Mis Proyectos",
+    "project1": "Proyecto Portafolio",
+    "project2": "Proyecto números romanos",
+    "project3": "Proyecto Portafolio",
+    "Contacts": "Contactos",
+    "contact1": "3138255236",
+    "contact2": "marlon.ruiz@campusucc.edu.co",
+    "contact3": "mi facebook"
   }
   
