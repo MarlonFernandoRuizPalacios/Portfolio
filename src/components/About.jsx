@@ -1,5 +1,6 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
+import menuIcon from '../assets/img/foto.jpeg';
 
 function About() {
   const { t } = useTranslation();
@@ -9,7 +10,7 @@ function About() {
       <div className="flex flex-col md:flex-row">
         <div className="md:w-1/2 md:pr-16 flex flex-col items-center">
           <h2 className="text-4xl font-bold mb-4">Marlon Fernando Ruiz Palacios</h2>
-          <img src="https://img.freepik.com/fotos-premium/arte-digital-lobo-colorido_997054-86.jpg" alt="yo" className="w-148 h-148 rounded-full" style={{ objectFit: 'cover' }} />
+          <img src={menuIcon} alt="yo" className="w-148 h-148 rounded-full" style={{ objectFit: 'cover' }} />
         </div>
         <div className="md:w-1/2 md:pl-8 flex justify-center">
           <div className="bg-blue-900 p-6 rounded-lg text-center">
